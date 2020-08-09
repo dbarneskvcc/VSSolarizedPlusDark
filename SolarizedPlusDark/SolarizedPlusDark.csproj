@@ -13,8 +13,8 @@
     <ProjectGuid>{93D97979-A782-4FBE-ACAB-A26E311F63E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SolarizedPlus__Dark_</RootNamespace>
-    <AssemblyName>SolarizedPlus %28Dark%29</AssemblyName>
+    <RootNamespace>SolarizedPlusDark</RootNamespace>
+    <AssemblyName>SolarizedPlusDark</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
